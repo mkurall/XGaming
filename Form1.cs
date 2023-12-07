@@ -19,7 +19,7 @@ namespace XGaming
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Merhaba:" + textBox1.Text);
+            MessageBox.Show("Selam:" + textBox1.Text);
         }
     }
 }
